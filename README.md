@@ -33,9 +33,17 @@
 ° [easypartner](https://easypartner.fr/les-jobs-sont-la/)
   
   
-  # Créations de CV.
+  ## Créations de CV.
   
   ° [arc.dev](https://arc.dev/resume/builder)
   
-  
   ° [authenticjobs](https://authenticjobs.com/resume-generator/)
+  
+ ## Entreprendre
+ 
+ °
+ 
+ °
+ 
+ °
+ 
