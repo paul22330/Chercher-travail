@@ -45,5 +45,5 @@
  
  ° [wuro - outils en ligne](https://www.wuro.fr/pages/outils-pour-les-entrepreneurs/)
  
- °
+ ° [cofondateur listing des coworkings](https://www.cofondateur.fr/blog/article/listing-des-coworkings-a-lyon-2022)
  
