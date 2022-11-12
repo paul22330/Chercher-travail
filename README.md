@@ -41,6 +41,8 @@
   
  ## Entreprendre
  
+ ° [bpifrance](https://www.bpifrance.fr/)
+ 
  ° [entreprendre service public](https://entreprendre.service-public.fr/)
  
  ° [wuro - outils en ligne](https://www.wuro.fr/pages/outils-pour-les-entrepreneurs/)
