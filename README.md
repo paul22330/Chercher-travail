@@ -1,5 +1,7 @@
 # Les meilleurs sites d'emplois 🚀
 
+° [grande ecole numerique](https://www.grandeecolenumerique.fr/)
+
 ° [cyberjobs](https://www.cyberjobs.fr/)
 
 ° [osint jobs](https://www.osint-jobs.com/)
