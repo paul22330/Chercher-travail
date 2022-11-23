@@ -3,6 +3,8 @@
 
 ° [grande ecole numerique](https://www.grandeecolenumerique.fr/)
 
+° [joinhandshake](https://joinhandshake.com/?_ga=2.105077315.155962483.1669203508-931079957.1669203508)
+
 ° [cyberjobs](https://www.cyberjobs.fr/)
 
 ° [osint jobs](https://www.osint-jobs.com/)
