@@ -25,8 +25,6 @@
 
 ° [offresdeveloppeur](https://www.offresdeveloppeur.com/)
 
-° [malt](https://www.malt.fr/)
-
 ° [expat](https://www.expat.com/fr/emploi/)
 
 ° [free-work](https://www.free-work.com/fr/tech-it)
@@ -36,6 +34,8 @@
 ° [konekt](https://www.konekt.fr/)
 
 ° [easypartner](https://easypartner.fr/les-jobs-sont-la/)
+
+° [pole-emploi](https://www.pole-emploi.fr/accueil/)
   
   
   ## Créations de CV.
