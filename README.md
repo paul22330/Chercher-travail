@@ -47,6 +47,7 @@
   
  ## Entreprendre
  ----------------
+ ° [leshandipreneurs](https://www.leshandipreneurs.org/)
  
  ° [bpifrance](https://www.bpifrance.fr/)
  
