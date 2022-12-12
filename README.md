@@ -61,7 +61,5 @@
   ----------------
  ° [psycom](https://www.psycom.org/)
  
- ## Outils pratiques
- -------------------
- ° [usito dictionnaire](https://usito.usherbrooke.ca/)
+ 
  
