@@ -49,7 +49,7 @@
   
  ## Entreprendre
  ----------------
- ° [leshandipreneurs](https://www.leshandipreneurs.org/)
+ ° [afde - article micro-entreprise]https://www.afde.fr/tous-savoir-sur-le-statut-de-micro-entreprise
  
  ° [agefiph](https://www.agefiph.fr/)
  
