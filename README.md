@@ -43,6 +43,8 @@
   ## Créations de CV.
   ------------------
   
+  °  [velvetjobs](https://www.velvetjobs.com/resume-builder?utm_campaign=resume-builder&utm_content=resume-bottom&utm_medium=resume-samples&utm_source=internal&utm_term=sales)
+  
   ° [arc.dev](https://arc.dev/resume/builder)
   
   ° [authenticjobs](https://authenticjobs.com/resume-generator/)
