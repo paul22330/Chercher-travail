@@ -1,6 +1,8 @@
 # Les meilleurs sites d'emplois 🚀
 ----------------------------------
 
+° [https://nostalentsnosemplois](https://nostalentsnosemplois.auvergnerhonealpes.fr/)
+
 ° [digital-league formation](https://www.digital-league.org/)
 
 ° [grande ecole numerique](https://www.grandeecolenumerique.fr/)
