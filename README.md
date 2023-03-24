@@ -56,6 +56,8 @@
  
  ° [Esl lab](https://www.esl-lab.com/)
  
+ ° [linguee](https://www.linguee.fr/)
+ 
   
  ## Entreprendre
  ----------------
