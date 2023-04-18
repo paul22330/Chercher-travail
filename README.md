@@ -1,13 +1,13 @@
 # Les meilleurs sites d'emplois 🚀
 ----------------------------------
 
-°  [missionhandicap](https://www.missionhandicap.fr/emploi)
+°  [talent](https://fr.talent.com/)
+
+°  [carriere-informatique](https://www.carriere-informatique.com/)
+
+°  [simplyhired](https://www.simplyhired.fr/)
 
 ° [nostalentsnosemplois](https://nostalentsnosemplois.auvergnerhonealpes.fr/)
-
-° [digital-league formation](https://www.digital-league.org/)
-
-° [grande ecole numerique](https://www.grandeecolenumerique.fr/)
 
 ° [joinhandshake](https://joinhandshake.com/?_ga=2.105077315.155962483.1669203508-931079957.1669203508)
 
