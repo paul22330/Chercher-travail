@@ -1,7 +1,9 @@
 # Les meilleurs sites d'emplois 🚀
 ----------------------------------
 
-°  [talent](https://fr.talent.com/)
+° [talent](https://fr.talent.com/)
+
+° [optioncarriere](https://www.optioncarriere.com/)
 
 °  [carriere-informatique](https://www.carriere-informatique.com/)
 
