@@ -71,8 +71,6 @@
  
  ° [afde - article micro-entreprise](https://www.afde.fr/tous-savoir-sur-le-statut-de-micro-entreprise)
  
- ° [agefiph](https://www.agefiph.fr/)
- 
  ° [bpifrance](https://www.bpifrance.fr/)
  
  ° [webportage](https://www.webportage.com/)
@@ -86,9 +84,11 @@
  
   ## Santé mentale, handicap.
   --------------------------
-  ° [activateurdeprogres](https://www.activateurdeprogres.fr/landing-page/activateurdeprogres-des-outils-pour-sensibiliser)
+ ° [activateurdeprogres](https://www.activateurdeprogres.fr/landing-page/activateurdeprogres-des-outils-pour-sensibiliser)
   
  ° [psycom](https://www.psycom.org/)
+ 
+ ° [agefiph](https://www.agefiph.fr/)
  
   ## Détente et voyage, bon plan. 
   -------------------------------
