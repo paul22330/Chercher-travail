@@ -84,6 +84,9 @@
  
   ## Santé mentale, handicap.
   --------------------------
+  
+ ° [wheelmap](https://wheelmap.org/)
+  
  ° [activateurdeprogres](https://www.activateurdeprogres.fr/landing-page/activateurdeprogres-des-outils-pour-sensibiliser)
   
  ° [psycom](https://www.psycom.org/)
