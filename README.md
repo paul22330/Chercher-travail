@@ -1,6 +1,8 @@
 # Les meilleurs sites d'emplois 🚀
 ----------------------------------
 
+° [digitalskills](https://www.digitalskills.fr/)
+
 ° [talent](https://fr.talent.com/)
 
 ° [optioncarriere](https://www.optioncarriere.com/)
