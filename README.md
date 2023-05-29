@@ -98,6 +98,8 @@
   ## Détente et voyage, bon plan. 
   -------------------------------
   
+ ° [happy-post](https://happy-post.com/fr/)
+  
  ° [Où et Quand : Partir en voyage](https://www.ou-et-quand.net/)
  
  ° [blogvoyage](https://www.blogvoyage.fr/france)
