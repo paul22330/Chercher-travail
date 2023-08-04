@@ -1,7 +1,7 @@
 # Les meilleurs sites d'emplois 🚀
 ----------------------------------
 
-° [airemploi](https://www.airemploi.org/)
+° [infosec-jobs](https://infosec-jobs.com/)
 
 ° [talent](https://fr.talent.com/)
 
