@@ -15,17 +15,15 @@
 ° [welovedevs](https://welovedevs.com/app/fr/jobs)
 
 ° [pole-emploi](https://www.pole-emploi.fr/accueil/)
- 
- ----------------> 
+
+  
  ## Entreprendre
- ---------------->
  
  ° [bpifrance](https://www.bpifrance.fr/)
+ 
 
- -------------------------------->
   ## Détente et voyage, bon plan. 
-  ------------------------------->
-
+ 
 ° [detoursenfrance](https://www.detoursenfrance.fr/)
   
  ° [happy-post](https://happy-post.com/fr/)
